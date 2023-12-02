@@ -1,3 +1,3 @@
 # Advent of Code 2023
 
-Trying some ZIG this year.
+Trying some <s>ZIG</s> <s>ODIN</s> C this year.
